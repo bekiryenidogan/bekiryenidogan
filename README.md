@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bekir Yenidoğan</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
-
+<p> You can check for more information -> <a href= "https://bekiryenidogan.github.io"> my personal website</a> </p> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bekiryenidogan&label=Profile%20views&color=0e75b6&style=flat" alt="bekiryenidogan" /> </p>
 
 <h3 align="left">Connect with me:</h3>
